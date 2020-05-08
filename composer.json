@@ -1,0 +1,16 @@
+{
+    "name": "mysamples/simpletpl",
+    "description": "simpletpl",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alexander Sorokin",
+            "email": "alexsorokinv@live.ru"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Mysamples\\SimpleTpl\\": "src/"
+        }
+    },
+}
